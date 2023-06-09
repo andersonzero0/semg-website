@@ -1,2 +1,0 @@
-# semg-website
-ReactJS
