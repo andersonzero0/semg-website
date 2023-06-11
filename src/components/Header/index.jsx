@@ -8,7 +8,7 @@ export default function Header() {
                 <img className="logo" src="./logo.svg"/>
             </div>
 
-            <a className='email' href="semgseguranca@gmail.com">Entre em contato: <Mail/></a>
+            <a className='email' href="mailto:semgseguranca@gmail.com">Entre em contato: <Mail/></a>
         </header>
     )
 }
